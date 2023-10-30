@@ -1,5 +1,5 @@
 /**
- * @description Loading Svg
+ * @description Loading Svg hai
  */
 export const loadingSvg = `
 <path class="path" d="
